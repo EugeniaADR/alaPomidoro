@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://t4.ftcdn.net/jpg/03/23/05/21/240_F_323052129_kr9Li8RPem6am03wdtiFsmfXDKAdJjcu.jpg");
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+
+}
+#container{
+    display: flex;
+    width: 300px;
+    flex-direction: column;
+    margin-left: 50px;
+}
+#countdown{
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+
+}
+a{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}
+.brake,#btn{
+    border: lightpink solid 3px;
+    padding:15px;
+    border-radius:15px ;
+}
