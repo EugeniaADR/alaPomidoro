@@ -1,10 +1,11 @@
-body{
+body {
     background-image: url("https://t3.ftcdn.net/jpg/01/68/98/38/240_F_168983856_2PesBq8YgCJ5nWV1glQ2hygRpdf9MNDF.jpg");
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
+    background-color: #fbd071;
 }
-#container{
+#container {
     display: flex;
     width: 300px;
     flex-direction: column;
@@ -14,16 +15,14 @@ h3 {
     display: flex;
     justify-content: center;
 }
-#countdown{
+#countdown {
     font-size: 60px;
     display: flex;
     justify-content: center;
-
 }
-#btn{
+#btn {
     border: dodgerblue solid 3px;
-    padding:15px;
-    border-radius:15px ;
+    padding: 15px;
+    border-radius: 15px;
     font-size: 20px;
-
 }
