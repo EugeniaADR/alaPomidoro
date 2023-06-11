@@ -19,6 +19,7 @@ h3 {
     font-size: 60px;
     display: flex;
     justify-content: center;
+    text-shadow: 5px -2px dodgerblue;
 }
 #btn {
     border: dodgerblue solid 3px;

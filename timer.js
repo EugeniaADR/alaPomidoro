@@ -34,4 +34,4 @@ button.addEventListener("click", function () {
         }, 1000);
     }
     start();
-});
+},{once:true});
