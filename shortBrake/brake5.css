@@ -1,10 +1,10 @@
-body{
+body {
     background-image: url("https://t4.ftcdn.net/jpg/04/27/65/97/240_F_427659756_QSnu1Xc6v8jvxmgbacifJuuWkwll7SYO.jpg");
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
-}
-#container{
+    background-color: #abaca6;}
+#container {
     display: flex;
     width: 300px;
     flex-direction: column;
@@ -14,16 +14,14 @@ h3 {
     display: flex;
     justify-content: center;
 }
-#countdown{
+#countdown {
     font-size: 60px;
     display: flex;
     justify-content: center;
-
 }
-#btn{
+#btn {
     border: lightslategrey solid 3px;
-    padding:15px;
-    border-radius:15px ;
+    padding: 15px;
+    border-radius: 15px;
     font-size: 20px;
 }
-
