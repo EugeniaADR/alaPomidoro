@@ -1,7 +1,7 @@
 const button = document.querySelector("#btn");
 let timerId;
-const timer = 25;
-let amountTime = timer * 60;
+const script = 25;
+let amountTime = script * 60;
 function startTimer() {
     const countdown = document.querySelector("#countdown");
     let minutes = Math.floor(amountTime / 60);
